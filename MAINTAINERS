@@ -14883,3 +14883,7 @@ F:  arch/arm64/boot/dts/amlogic/sm1_s905d3_ac202.dts
 F:  arch/arm64/boot/dts/amlogic/sm1_s905d3_ac202_1g.dts
 F:  arch/arm64/configs/meson64_defconfig
 F:  drivers/amlogic/media/camera/gc2145_mipi.c
+
+AMLOGIC FRANKLIN DEFCONFIG
+M:      KostyaJRZ <jrzroyale@gmail.com>
+F:      arch/arm/configs/franklin_defconfig
